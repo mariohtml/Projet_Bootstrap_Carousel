@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2020-03-17T12:25:32.400Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0" etag="RSfrVpOlMSYtfyrTiD85" version="12.8.5" type="device">
+  <diagram id="8kjolbEzMu2iQaNSdVvf" name="Page-1">
+    <mxGraphModel dx="850" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-880" width="490" height="490" as="geometry" />
+        </mxCell>
+        <object label="Tasse" id="mVNt5GLjIRrhJOaPDtk1-12">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingTop=6;spacingLeft=0;" vertex="1" parent="mVNt5GLjIRrhJOaPDtk1-12">
+          <mxGeometry x="80" y="-880" width="490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-17" value="&lt;b&gt;Drink&lt;br&gt;Coffee&lt;/b&gt;&lt;br&gt;" style="shape=mxgraph.signs.food.coffee;html=1;verticalLabelPosition=middle;verticalAlign=middle;align=center;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=12;strokeWidth=3;labelPosition=center;spacingLeft=-40;spacingBottom=44;" vertex="1" parent="mVNt5GLjIRrhJOaPDtk1-12">
+          <mxGeometry x="234" y="-700" width="180" height="90" as="geometry" />
+        </mxCell>
+        <object label="Formes&#xa;" id="mVNt5GLjIRrhJOaPDtk1-18">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-21" value="Are you&lt;br&gt;thirsty ?" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;align=center;spacingTop=-31;spacingLeft=6;" vertex="1" parent="mVNt5GLjIRrhJOaPDtk1-18">
+          <mxGeometry x="414" y="-810" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-22" value="Do you eat&lt;br&gt;cake ?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;align=center;spacingTop=-24;spacingLeft=6;" vertex="1" parent="mVNt5GLjIRrhJOaPDtk1-18">
+          <mxGeometry x="160" y="-550" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="mVNt5GLjIRrhJOaPDtk1-18">
+          <mxGeometry x="474" y="-630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-24" value="Do you&lt;br&gt;&amp;nbsp;have visitor&lt;br&gt;" style="shape=or;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fontFamily=Comic Sans MS;fontSize=12;align=center;direction=north;spacingTop=-21;spacingRight=0;spacingLeft=4;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="mVNt5GLjIRrhJOaPDtk1-18">
+          <mxGeometry x="449" y="-600" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-25" value="That&#39;s to bad !" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=none;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;align=center;spacingTop=-21;spacingLeft=8;" vertex="1" parent="mVNt5GLjIRrhJOaPDtk1-18">
+          <mxGeometry x="120" y="-700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-26" value="Is it still early ?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=11;align=center;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;spacingTop=-12;spacingLeft=25;fontStyle=0" vertex="1" parent="mVNt5GLjIRrhJOaPDtk1-18">
+          <mxGeometry x="160" y="-830" width="130" height="70" as="geometry" />
+        </mxCell>
+        <object label="Flèches" id="mVNt5GLjIRrhJOaPDtk1-27">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="mVNt5GLjIRrhJOaPDtk1-30" value="no" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#FF0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#DAE8FC;fillColor=#f8cecc;strokeColor=#FF0000;spacingTop=-15;spacingLeft=-18;labelBorderColor=none;" edge="1" parent="mVNt5GLjIRrhJOaPDtk1-27" source="mVNt5GLjIRrhJOaPDtk1-26" target="mVNt5GLjIRrhJOaPDtk1-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="-800" as="sourcePoint" />
+            <mxPoint x="340" y="-850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="-840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
